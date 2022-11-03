@@ -1,0 +1,15 @@
+/Users/simpaa/Documents/C#-Code/bin/Debug/net6.0/C#-Code
+/Users/simpaa/Documents/C#-Code/bin/Debug/net6.0/C#-Code.deps.json
+/Users/simpaa/Documents/C#-Code/bin/Debug/net6.0/C#-Code.runtimeconfig.json
+/Users/simpaa/Documents/C#-Code/bin/Debug/net6.0/C#-Code.dll
+/Users/simpaa/Documents/C#-Code/bin/Debug/net6.0/C#-Code.pdb
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.csproj.AssemblyReference.cache
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.AssemblyInfoInputs.cache
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.AssemblyInfo.cs
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.csproj.CoreCompileInputs.cache
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.dll
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/refint/C#-Code.dll
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.pdb
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/C#-Code.genruntimeconfig.cache
+/Users/simpaa/Documents/C#-Code/obj/Debug/net6.0/ref/C#-Code.dll
